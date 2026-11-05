@@ -2,9 +2,11 @@
 title: "Beacon Design System"
 slug: beacon-design-system
 team: "Design Systems Studio"
-stage: beta
+stage: ga
+ga_date: 2026-10-27
 target_ga: 2026-Q3
 source_repo: em3439-beacon-design-k7m2
+repository: https://github.com/knobbyintens/em3439-beacon-design-k7m2
 ---
 
 # Beacon Design System

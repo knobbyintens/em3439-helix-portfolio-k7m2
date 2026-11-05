@@ -2,9 +2,11 @@
 title: "Aurora Analytics Platform"
 slug: aurora-analytics
 team: "Data Platform Guild"
-stage: beta
+stage: ga
+ga_date: 2026-10-20
 target_ga: 2026-Q4
 source_repo: em3439-aurora-analytics-k7m2
+repository: https://github.com/knobbyintens/em3439-aurora-analytics-k7m2
 ---
 
 # Aurora Analytics Platform

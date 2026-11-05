@@ -2,7 +2,8 @@
 title: "Fern Orchestrator"
 slug: fern-orchestrator
 team: "Platform Operations"
-stage: pilot
+stage: ga
+ga_date: 2026-11-03
 target_ga: 2026-Q4
 source_repo: em3439-fern-orchestrator-k7m2
 ---
