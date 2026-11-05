@@ -2,9 +2,11 @@
 title: "Garnet Payments"
 slug: garnet-payments
 team: "Payments Engineering"
-stage: beta
+stage: ga
+ga_date: 2026-11-02
 target_ga: 2026-Q4
 source_repo: em3439-garnet-payments-k7m2
+repository: https://github.com/knobbyintens/em3439-garnet-payments-k7m2
 ---
 
 # Garnet Payments

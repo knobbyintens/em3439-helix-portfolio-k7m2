@@ -2,7 +2,8 @@
 title: "Cobalt Billing Service"
 slug: cobalt-billing-service
 team: "Finance Platform"
-stage: beta
+stage: ga
+ga_date: 2026-10-29
 target_ga: 2026-Q4
 source_repo: em3439-cobalt-billing-k7m2
 ---
